@@ -35,3 +35,13 @@ going to use the script on and that's all!
 ## Show your support
 
 If you like this project, don't forget to give it a star. It's going to be much appreciated! ^\_^
+
+## Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](../../issues/).
+
+## License
+
+All the scripts in this repository are the property of Bucur Eva-Lavinia, but they are released under the [MIT License](./LICENSE) and they can be used, modified and distributed without any further permission.
