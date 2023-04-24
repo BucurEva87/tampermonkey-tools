@@ -76,8 +76,8 @@
 
     const pullRequestBtn = qs('button[type=submit].hx_create-pr-button');
     const commitHistoryBtn = createElement({
-        tag: 'button',
-        class: ['hx_create-pr-button', 'js-sync-select-menu-button', 'btn-primary', 'btn', 'BtnGroup-item', 'flex-auto'],
+        tagName: 'button',
+        class: [...pullRequestBtn.classList],
         textContent: 'Generate commit history'
     });
 
