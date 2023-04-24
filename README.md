@@ -31,3 +31,7 @@ going to use the script on and that's all!
 - GitHub
   -  [Generate Pull Request description from commit history](./GitHub/pullRequestDescriptionGenerator.js)
   	When you create a new Pull Request this script will create a button next to GitHub's "Create new pull request" button. Once pressed it will look at the commits' history, it will add all of them to an array (it will also clean them up, because not all commits should be accounted for) and will generate a message that you can use directly in ChatGPT and you will (hopefully) receive a Pull Request description based on what you commited in that branch. Please keep in mind that a proper commit message should not excede 50 characters. If your commit messages are longer than 68 characters, GitHub will split them in the commit history. Also remember that this script is not meant to be used for Pull Requests that have more than 40 commits. The description could become cumbersome for ChatGPT. If you try to use it under those conditions, you will receive a warning. If you ignore it, you use the script at your own risk.
+
+## Show your support
+
+If you like this project, don't forget to give it a star. It's going to be much appreciated! ^\_^
